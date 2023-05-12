@@ -8,7 +8,7 @@
 ###### Furthermore, with a bit education, we hope we can bring more and more people to try out sattvic food, to make us a better person, and ultimately to make this world a better place.
 
 ## Features
-#### Existing Features
+#### Existing Features and marketing strategies
 - User can also browse the website and buy items with or without login and register. 
 - User can search, sort products by keywords, price, or category.
 - User can follow social media link, keep up to date.
